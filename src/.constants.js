@@ -23,7 +23,7 @@ module.exports = Object.freeze({
   },
   COMMANDS_USE_BOT_NAME: {
     ENABLED: true,  // If true, all commands except '/list' has to have the bot username after the command
-    NAME: "@nameOf_bot"
+    NAME: "@YasirCerminBot"
   },
   IS_TEAM_DRIVE: false,
   USE_SERVICE_ACCOUNT: false,
