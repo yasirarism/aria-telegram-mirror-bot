@@ -4,7 +4,7 @@ module.exports = Object.freeze({
   ARIA_DOWNLOAD_LOCATION: '/home/user/path/to/download/dir (no trailing "/")',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
   ARIA_FILTERED_DOMAINS: [], // Prevent downloading from URLs containing these substrings
-  ARIA_FILTERED_FILENAMES: [, // Files/top level directories with these substrings in the filename won't be downloaded
+  ARIA_FILTERED_FILENAMES: [], // Files/top level directories with these substrings in the filename won't be downloaded
   ARIA_PORT: 8210, // Port for aria2c RPC server, if you change this here, make sure to update aria.sh as well
   GDRIVE_PARENT_DIR_ID: '129T3ecpHaiQlNHJNstfb9KXdpF69qPZK',
   OTHER_GDRIVE_DIR_IDS: [], // This is needed if u want to look for files in multiple dirs on list command
