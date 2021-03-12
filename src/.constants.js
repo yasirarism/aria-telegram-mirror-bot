@@ -1,5 +1,5 @@
 module.exports = Object.freeze({
-  TOKEN: '1402710992:AAE0LTCE_RB4gdEHa7QAIp6VmDn7qbuyINo',
+  TOKEN: '1606571290:AAGXqr1s8uFLRgnq-2A42rrZgO0EIiCh1-Q',
   ARIA_SECRET: 'myaria2',
   ARIA_DOWNLOAD_LOCATION: '/home/user/path/to/download/dir (no trailing "/")',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
